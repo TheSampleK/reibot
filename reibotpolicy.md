@@ -27,6 +27,42 @@
 - The bot may be unavailable from time to time due to technical issues or maintenance. Developers are not responsible for such interruptions.
 - Users are responsible for any issues that arise from the misuse of the bot.
 
+# =========================
+
+# Payment Policy
+
+## 1. General Information
+- This payment policy applies to the premium version of our Discord bot available on GitHub.
+- Premium subscriptions offer additional features and benefits.
+- By making a payment, you agree to this policy.
+
+## 2. Subscription Types and Pricing
+- [About Prime](http://reibot.rf.gd/prime.html)
+
+## 3. Payment Methods
+- Credit Card (Visa, MasterCard)
+
+## 4. Billing and Payment Processing
+- Subscription payments are collected in advance.
+- Your subscription start date is considered the date your payment is received.
+- Invoice details will be sent via email upon completion of the payment process.
+
+## 5. Automatic Renewal
+- Monthly and annual subscriptions are automatically renewed.
+- To cancel automatic renewal, you must submit a cancellation request at least [specific time period] before the renewal date.
+
+## 6. Cancellation and Refund Policy
+- Subscription cancellations can be made within 7 days of the payment date.
+- Refund requests will be reviewed by our customer support team.
+- Refunds will be processed using the same method as the original payment.
+
+## 7. Changes and Updates
+- This payment policy may be updated from time to time.
+- Policy changes will be announced on our Discord server and website.
+- Continued use of the premium subscription after changes implies acceptance of the updated policies.
+  
+# =========================
+
 ## Links
 - http://reibot.rf.gd/
 - http://dicord.reibot.rf.gd/
