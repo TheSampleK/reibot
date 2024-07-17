@@ -10,7 +10,7 @@
 
 ## Veri Toplama ve Gizlilik
 - Bot, belirli komutları yerine getirmek için bazı kullanıcı verilerini toplayabilir. Bu veriler, sadece botun işlevselliğini sağlamak amacıyla kullanılacaktır.
-- Kullanıcı verileri hiçbir üçüncü tarafla paylaşılmayacak ve gizliliğiniz korunacaktır. Daha fazla bilgi için [Gizlilik Politikamıza](#) göz atabilirsiniz.
+- Kullanıcı verileri hiçbir üçüncü tarafla paylaşılmayacak ve gizliliğiniz korunacaktır. Daha fazla bilgi için [Gizlilik Politikamıza](https://github.com/TheSampleK/reibot/blob/main/reibot-gizlilikpolitikas%C4%B1.md) göz atabilirsiniz.
 
 ## Sorumluluk Reddi
 - Bot, olduğu gibi (AS-IS) sağlanmaktadır. Botun sürekli olarak çalışacağını veya hatasız olacağını garanti etmiyoruz.
