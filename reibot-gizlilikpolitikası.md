@@ -36,5 +36,5 @@ Botumuz, 13 yaşından küçük çocuklardan bilerek kişisel bilgi toplamaz. E�
 Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanacaktır ve bu sayfanın en üstünde belirtilen "Son Güncelleme" tarihi değiştirilecektir. Gizlilik politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
 ## 9. İletişim
-Bu gizlilik politikası hakkında sorularınız veya endişeleriniz varsa, lütfen bizimle [iletişime geçin](mailto:your.email@example.com).
+Bu gizlilik politikası hakkında sorularınız veya endişeleriniz varsa, lütfen bizimle [iletişime geçin](mailto:reibotcontact@gmail.com).
 
