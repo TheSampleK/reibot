@@ -15,6 +15,7 @@
 ## Sorumluluk Reddi
 - Bot, olduğu gibi (AS-IS) sağlanmaktadır. Botun sürekli olarak çalışacağını veya hatasız olacağını garanti etmiyoruz.
 - Botun kullanımı sırasında meydana gelebilecek herhangi bir veri kaybı veya hasar için sorumluluk kabul etmiyoruz.
+- Botumuzun NFSW amaçlı kullanılmasını durumunda sorumluluk sunucu yetkilileri ve sunucu sahibindedir.
 
 ## Yasaklı Davranışlar
 - Botu spam, dolandırıcılık, taciz veya diğer yasa dışı faaliyetler için kullanmak kesinlikle yasaktır.
